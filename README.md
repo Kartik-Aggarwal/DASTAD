@@ -5,15 +5,12 @@ Source code of DASTAD
     root
     ├── main.py
     ├── requirements.txt
-    ├── processed
-    │   ├── MBA
-    │   ├── MSDS
-    │   ├── MSL
-    │   ├── SMAP
-    │   ├── SMAP_full
-    │   ├── SMD
-    │   ├── SWaT
-    │   └── WADI
+    ├── processed   
+        ├── MSL
+        ├── SMAP
+        ├── SMD
+        ├── SWaT
+        └── WADI
     └── src
         ├── constants.py
         ├── diagnosis.py
@@ -24,6 +21,6 @@ Source code of DASTAD
         ├── parser.py
         ├── pot.py
         ├── spot.py
-        ├── utils.py
+        └── utils.py
         
 
